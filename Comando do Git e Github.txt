@@ -1,0 +1,11 @@
+git init
+git remote add origin git@github.com:ErickGiroto/project_web_spring_boot.git
+git pull origin main
+git status
+git add .
+git commit -m "Criando Tabela para banco de dados part 02"
+git push -u origin main
+git push -u origin master
+---------
+
+git branch -M main (trocar para main ou master)
